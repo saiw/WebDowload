@@ -1,0 +1,5 @@
+C:\[My Library]\Code\WebDowload\ConsoleWebDownload\bin\Debug\ConsoleDownload.exe
+C:\[My Library]\Code\WebDowload\ConsoleWebDownload\bin\Debug\ConsoleDownload.pdb
+C:\[My Library]\Code\WebDowload\ConsoleWebDownload\bin\Debug\HtmlAgilityPack.dll
+C:\[My Library]\Code\WebDowload\ConsoleWebDownload\obj\Debug\ConsoleDownload.exe
+C:\[My Library]\Code\WebDowload\ConsoleWebDownload\obj\Debug\ConsoleDownload.pdb

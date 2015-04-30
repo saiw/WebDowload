@@ -1,0 +1,5 @@
+C:\Users\saiw\Documents\Visual Studio 2005\Projects\TestSolution\ConsoleWebClient\bin\Debug\ConsoleWebClient.exe
+C:\Users\saiw\Documents\Visual Studio 2005\Projects\TestSolution\ConsoleWebClient\bin\Debug\ConsoleWebClient.pdb
+C:\Users\saiw\Documents\Visual Studio 2005\Projects\TestSolution\ConsoleWebClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\saiw\Documents\Visual Studio 2005\Projects\TestSolution\ConsoleWebClient\obj\Debug\ConsoleWebClient.exe
+C:\Users\saiw\Documents\Visual Studio 2005\Projects\TestSolution\ConsoleWebClient\obj\Debug\ConsoleWebClient.pdb
