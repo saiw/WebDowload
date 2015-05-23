@@ -21,9 +21,10 @@ namespace ConsoleDownload
             Console.WriteLine("press any key to start...");
             Console.ReadKey();
 
-            //WebDownload.DayStockDowload downloader = new WebDownload.DayStockDowload();
+            WebDownload.DayStockDowload downloader = new WebDownload.DayStockDowload();
+            
             //WebDownload.ExchangeRageByDay downloader = new WebDownload.ExchangeRageByDay();
-            WebDownload.YahooNew downloader = new WebDownload.YahooNew();  //parse yahoo website ,save to temp folder
+            //WebDownload.YahooNew downloader = new WebDownload.YahooNew();  //parse yahoo website ,save to temp folder
 
             if (downloader.Excute())
                 Console.WriteLine("\nCompleted...");

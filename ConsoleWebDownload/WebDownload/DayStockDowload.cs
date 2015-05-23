@@ -15,7 +15,7 @@ namespace ConsoleDownload.WebDownload
 
         #region 屬性欄位
         private string content;
-        private string pid = "2317";
+        private string pid = "1723";
         private string charset;
         public override string URL
         {
@@ -86,11 +86,12 @@ namespace ConsoleDownload.WebDownload
             //建立stock資料
             HtmlDocument docStockContent = new HtmlDocument();
             HtmlNode htmlnode =
-                doc.DocumentNode.SelectSingleNode("/html[1]/body[1]/center[1]/table[2]/tr[1]/td[1]/table[1]") ;
+                doc.DocumentNode.SelectSingleNode(".//table[@border='2' and @width='750']"); //optimize to 相對路徑
+                ////doc.DocumentNode.SelectSingleNode("/html[1]/body[1]/center[1]/table[2]/tr[1]/td[1]/table[1]") ;
             docStockContent.LoadHtml(htmlnode.InnerHtml );
 
             //取得個股標頭
-            HtmlNodeCollection nodeHeaders = docStockContent.DocumentNode.SelectNodes("./tr[1]/th");
+            HtmlNodeCollection nodeHeaders = docStockContent.DocumentNode.SelectNodes(".//tr[@bgcolor='#fff0c1']/th");
 
             //取得個股values array
             string[] values = docStockContent.DocumentNode.SelectSingleNode("./tr[2]").InnerText.Trim().Split('\n');

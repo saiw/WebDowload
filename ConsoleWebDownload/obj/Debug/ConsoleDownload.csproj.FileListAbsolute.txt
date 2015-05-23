@@ -3,3 +3,8 @@ C:\[My Library]\Code\WebDowload\ConsoleWebDownload\bin\Debug\ConsoleDownload.pdb
 C:\[My Library]\Code\WebDowload\ConsoleWebDownload\bin\Debug\HtmlAgilityPack.dll
 C:\[My Library]\Code\WebDowload\ConsoleWebDownload\obj\Debug\ConsoleDownload.exe
 C:\[My Library]\Code\WebDowload\ConsoleWebDownload\obj\Debug\ConsoleDownload.pdb
+C:\Users\joe09_000\Documents\GitHub\WebDowload\ConsoleWebDownload\bin\Debug\ConsoleDownload.exe
+C:\Users\joe09_000\Documents\GitHub\WebDowload\ConsoleWebDownload\bin\Debug\ConsoleDownload.pdb
+C:\Users\joe09_000\Documents\GitHub\WebDowload\ConsoleWebDownload\bin\Debug\HtmlAgilityPack.dll
+C:\Users\joe09_000\Documents\GitHub\WebDowload\ConsoleWebDownload\obj\Debug\ConsoleDownload.exe
+C:\Users\joe09_000\Documents\GitHub\WebDowload\ConsoleWebDownload\obj\Debug\ConsoleDownload.pdb
